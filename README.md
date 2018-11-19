@@ -1,7 +1,6 @@
-# Hsusir.github.io
-不廢話的統計程式語言
+## 不廢話的統計程式語言
 
-# R語言在初等統計上之應用
+## R語言在初等統計上之應用
 - [01.R-basic 01](https://hsusir.github.io/stats-in-R/01.R-basic%2001/R-Basic01.html)
 - [03A.DataFrame](https://hsusir.github.io/stats-in-R/03A.DataFrame/Dataframe.html)
 - [03B.Visualization for qqplot2](https://hsusir.github.io/stats-in-R/03B.Visualization%20for%20qqplot2/Data-Visualization.html)
@@ -11,4 +10,4 @@
 
 
 
-# Python在初等統計上的應用
+## Python在初等統計上的應用
