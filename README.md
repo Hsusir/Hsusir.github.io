@@ -1,4 +1,4 @@
-## 不廢話的統計程式語言
+## **不廢話的統計程式語言**
 
 ## R語言在初等統計上之應用
 - [01.R-basic 01](https://hsusir.github.io/stats-in-R/01.R-basic%2001/R-Basic01.html)
