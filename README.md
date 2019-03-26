@@ -11,7 +11,7 @@
 
 
 ## Python在初等統計上的應用
-- [01. Anaconda 簡介]()
+- [01. Anaconda 簡介](https://Hsusir.github.io/Stats-in-Py/01.%20Anaconda-Basic-Stats/IntroPy.html)
 - [02. Data ETL] ()
 - [03. Data-Visualization] ()
 - [04.Hypathsis]
