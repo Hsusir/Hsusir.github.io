@@ -11,3 +11,9 @@
 
 
 ## Python在初等統計上的應用
+- [01. Anaconda 簡介]()
+- [02. Data ETL] ()
+- [03. Data-Visualization] ()
+- [04.Hypathsis]
+- [05.Intro-ML]
+- [06.Cafe-Project] ()
