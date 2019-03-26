@@ -16,4 +16,4 @@
 - [03. Data-Visualization](https://Hsusir.github.io/Stats-in-Py/03.%20Data-Visualization/Data%20Visualization.html)
 - 04.Hypathsis
 - 05.Intro-ML
-- [06.Cafe-Project]()
+- [06.Cafe-Project](https://Hsusir.github.io/Stats-in-Py/06.Cafe-Project/CafeProject.html)
