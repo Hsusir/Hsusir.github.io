@@ -17,3 +17,7 @@
 - 04.Hypathsis
 - 05.Intro-ML
 - [06.Cafe-Project](https://Hsusir.github.io/Stats-in-Py/06.Cafe-Project/CafeProject.html)
+
+## 計量地理之應用
+- 01.Python面資料的應用
+- 02.Python點資料之應用
